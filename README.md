@@ -1,0 +1,2 @@
+# golang-path
+Test course
